@@ -38,7 +38,7 @@ Yes, you read that right. Each epoch makes things worse. The poor model started 
    ./nn
    ```
 
-4. Sit back and enjoy watching your model's performance decline. Popcorn recommended 🍿.
+4. Sit back and enjoy watching your model's performance decline.
 
 ---
 

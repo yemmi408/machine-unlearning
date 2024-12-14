@@ -30,12 +30,12 @@ Yes, you read that right. Each epoch makes things worse. The poor model started 
 
 2. Compile the C code (if you're feeling brave):
    ```bash
-   gcc main.c -o neural_net -lm
+   gcc -O3 -march=native -ffast-math -o nn nn.c -lm
    ```
 
 3. Run it and witness the magic of unlearning:
    ```bash
-   ./neural_net
+   ./nn
    ```
 
 4. Sit back and enjoy watching your model's performance decline. Popcorn recommended 🍿.

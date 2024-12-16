@@ -70,6 +70,6 @@ Solana addy of original dev used to sell tokens: BXq1o8o9nSmWR9HczP6EAvhqkMVM7VG
 
 **Token**
 
-$unlearning ca: DS1siYy2VYXGoeSJtRFCUNN3KQzfoecwPtZ2L4MVpump 
-
+Name: $unlearning
+ca: DS1siYy2VYXGoeSJtRFCUNN3KQzfoecwPtZ2L4MVpump 
 chain: solana

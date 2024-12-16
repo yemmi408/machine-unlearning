@@ -69,7 +69,8 @@ When original dev saw that his code is being viral, he endorsed $unlearning meme
 Solana addy of original dev used to sell tokens: BXq1o8o9nSmWR9HczP6EAvhqkMVM7VGCPhVb9D3mvAT
 
 **Token**
-
 Name: $unlearning
+
 ca: DS1siYy2VYXGoeSJtRFCUNN3KQzfoecwPtZ2L4MVpump 
+
 chain: solana

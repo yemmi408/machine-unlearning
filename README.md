@@ -58,3 +58,18 @@ Because making mistakes is human, but making a neural network unlearn is a **rar
 
 This project is **based on** the amazing work at [miniMNIST-c](https://github.com/konrad-gajdus/miniMNIST-c) by [Konrad Gajdus](https://github.com/konrad-gajdus). I just accidentally broke it.
 
+---
+
+## **Fork maker note**
+
+I work in crypto industry. I forked it from celiobjr, who actually created it. Now he deleted his github profile. I am sharing this fork with crypto bros to improve this tech by getting coders and investors.
+
+When original dev saw that his code is being viral, he endorsed $unlearning memecoin and wanted to see growth of this token and said that he'll continue his project. When price of token increased he sold all $unlearning tokens for $10k which community donated him and deleted all tweets about $unlearning token and went off. Now he also deleted his repo. After all this token mc dropped to $100k from $2m. fortunately i forked it. I'm not coder.
+
+---
+
+**Token**
+
+$unlearning ca: DS1siYy2VYXGoeSJtRFCUNN3KQzfoecwPtZ2L4MVpump 
+
+chain: solana

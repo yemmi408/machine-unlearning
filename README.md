@@ -64,7 +64,7 @@ This project is **based on** the amazing work at [miniMNIST-c](https://github.co
 
 I work in crypto industry. I forked it from celiobjr, who actually created it. Now he deleted his github profile. I am sharing this fork with crypto bros to improve this tech by getting coders and investors on it.
 
-When original dev saw that his code is being viral, he endorsed $unlearning memecoin and said that he wanted to see growth of this and said that he'll continue his project. When price of token increased he sold all $unlearning tokens for ~$10k which community donated him and deleted all tweets about $unlearning token and went off. Now he also deleted his repo. After all this token mc dropped to $100k from $2m. 
+When original dev saw that his code is being viral, he endorsed $unlearning memecoin and said that he wanted to see growth of this and said that he'll continue his project. After that he sold all $unlearning tokens for ~$10k which community donated him and deleted all tweets about $unlearning token and then deleted X & github.
 
 **Token**
 
